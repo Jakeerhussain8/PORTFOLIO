@@ -44,7 +44,7 @@ nav{
 
 section{
     text-align: center;
-    padding: 20px;
+    padding: 50px;
     background-image: linear-gradient(to right top, #ce1ee7, #bb1ce7, #a61ce7, #8f1ee7, #7520e7);
 }
 
@@ -70,4 +70,13 @@ section{
 
 .info{
     text-align: center;
+}
+
+.git{
+    height: 50px;
+    width:50px;
+}
+
+.mul{
+    text-decoration: none;
 }
